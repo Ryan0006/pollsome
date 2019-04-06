@@ -31,3 +31,11 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background: #dedede;
+}
+
+.page-wrap {
+  min-height: 100vh;
+}
